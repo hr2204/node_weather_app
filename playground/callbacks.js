@@ -9,6 +9,6 @@ var getUser = (id, callback) => {
   // callback(user);
 }
 
-getUser(31, (user) => {
-  console.log(user)
+getUser(31, (userObejct) => {
+  console.log(userObejct)
 })
